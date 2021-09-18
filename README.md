@@ -52,4 +52,4 @@ Hola, mi nombre es David García
 
 
 ### Asesoria y acompañamiento
-Wendy Rodriguez Fonseca
+Wendy Rodriguez Fonseca [wendyRodri](https://github.com/wendyRodri)
