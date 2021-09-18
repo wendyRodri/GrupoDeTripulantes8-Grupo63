@@ -49,6 +49,7 @@ Hola, mi nombre es David García
 * Jhonatan Castillo Quevedo
 * Mauricio Sánchez Abella
 * Fernando Zapata Gallego
+* Diego Valderrama
 
 
 ### Asesoria y acompañamiento
